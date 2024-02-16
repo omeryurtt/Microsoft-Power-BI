@@ -21,7 +21,7 @@ I'm excited to share ongoing data explorations using Microsoft Power BI. As I le
 ## Getting Started
 
 Feel free to explore the dashboards and join me in this learning journey. Your feedback and suggestions are highly appreciated as I continue to enhance and refine these projects.
-🔗 **[Explore Dashboards](https://github.com/omeryurtt/Microsoft-Power-BI/blob/main/Projects/World-of-Data-Professionals/World-of-Data-Professionals.pdf)**
+🔗 **[Explore Dashboards](Projects/World-of-Data-Professionals/World-of-Data-Professionals.pdf)**
 
 
 ## How to Use
