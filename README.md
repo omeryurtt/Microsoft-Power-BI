@@ -17,6 +17,7 @@ I'm excited to share ongoing data explorations using Microsoft Power BI. As I le
    
 5. **Filtered Search by Job Title, Experience Level, Year**
 
+![](Projects/World-of-Data-Professionals/ezgif.com-video-to-gif-converter.gif)
 ## Getting Started
 
 Feel free to explore the dashboards and join me in this learning journey. Your feedback and suggestions are highly appreciated as I continue to enhance and refine these projects.
