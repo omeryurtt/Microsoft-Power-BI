@@ -4,8 +4,8 @@
 
 I'm excited to share ongoing data explorations using Microsoft Power BI. As I learn, I'll regularly update this repository with new dashboards and analyses. Stay tuned for upcoming projects as I gather insights from diverse fields. Your feedback is precious, helping me refine and grow in this analytics journey.
 
-## 1st Dashboard Highlights
-#### World-of-Data-Professionals
+## World-of-Data-Professionals
+### Dashboard Highlights
 
 1. **Annual Average Gross Salary by Experience Level in USD**
 
@@ -17,11 +17,38 @@ I'm excited to share ongoing data explorations using Microsoft Power BI. As I le
    
 5. **Filtered Search by Job Title, Experience Level, Year**
 
+🔗 **[Explore Dashboards](Projects/World-of-Data-Professionals/World-of-Data-Professionals.pdf)**
+
 ![](Projects/World-of-Data-Professionals/ezgif.com-video-to-gif-converter.gif)
+
+## London-Bike-Sharing 🚲
+### 
+
+![](Projects/London-Bike-Sharing/Screenshot.png)
+
+#### Alongside PowerBI, I explored and analyzed the raw data using Python, utilizing libraries such as Pandas and Seaborn. You can review my Jupyter Notebook, where you will find a summary of the data visualizations that provide answers to questions.
+
+### Questions:
+
+1. **How many bikes shared annually, monthly and daily?**
+
+2. **How many bike shared by Seasons?**
+
+3. **What is seasonal demand per hours for bikes?**
+   
+4. **What is hourly bike share by day?**
+   
+5. **Comparison of demand for bicycles on holidays and weekends?**
+
+6. **Biking Demand by Day of the Week (Percentage) & Seasonal Demand per Day for Bikes (Counts)**
+
+7. **What is the correlation between weather condition and bike sharing?**
+
+🔗 **[Explore Jupyter Notebook](Projects/London-Bike-Sharing/london-bike-sharing-analysis.ipynb)**
+   
 ## Getting Started
 
 Feel free to explore the dashboards and join me in this learning journey. Your feedback and suggestions are highly appreciated as I continue to enhance and refine these projects.
-🔗 **[Explore Dashboards](Projects/World-of-Data-Professionals/World-of-Data-Professionals.pdf)**
 
 
 ## How to Use
