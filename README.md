@@ -17,7 +17,7 @@ I'm excited to share ongoing data explorations using Microsoft Power BI. As I le
    
 5. **Filtered Search by Job Title, Experience Level, Year**
 
-🔗 **[Explore Dashboards](Projects/World-of-Data-Professionals/World-of-Data-Professionals.pdf)**
+🔗 **[Explore Dashboard](Projects/World-of-Data-Professionals/World-of-Data-Professionals.pdf)**
 
 ![](Projects/World-of-Data-Professionals/ezgif.com-video-to-gif-converter.gif)
 
@@ -45,6 +45,8 @@ I'm excited to share ongoing data explorations using Microsoft Power BI. As I le
 7. **What is the correlation between weather condition and bike sharing?**
 
 🔗 **[Explore Jupyter Notebook](Projects/London-Bike-Sharing/london-bike-sharing-analysis.ipynb)**
+
+🔗 **[Explore Dashboard](Projects/London-Bike-Sharing/London-Bikes-Sharing.pbix)**
    
 ## Getting Started
 
