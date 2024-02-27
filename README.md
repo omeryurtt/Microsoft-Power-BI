@@ -17,16 +17,14 @@ I'm excited to share ongoing data explorations using Microsoft Power BI. As I le
    
 5. **Filtered Search by Job Title, Experience Level, Year**
 
-🔗 **[Explore Dashboard](Projects/World-of-Data-Professionals/World-of-Data-Professionals.pdf)**
+🔗 **[Explore Dashboard](Projects/World-of-Data-Professionals/World-of-Data-Professionals.pbix)**
+
 
 ![](Projects/World-of-Data-Professionals/ezgif.com-video-to-gif-converter.gif)
 
 ## London-Bike-Sharing 🚲
-### 
 
-![](Projects/London-Bike-Sharing/Screenshot.png)
-
-#### Alongside PowerBI, I explored and analyzed the raw data using Python, utilizing libraries such as Pandas and Seaborn. You can review my Jupyter Notebook, where you will find a summary of the data visualizations that provide answers to questions.
+Alongside PowerBI, I explored and analyzed the raw data using Python, utilizing libraries such as Pandas and Seaborn. You can review my Jupyter Notebook, where you will find a summary of the data visualizations that provide answers to questions.
 
 ### Questions:
 
@@ -48,6 +46,11 @@ I'm excited to share ongoing data explorations using Microsoft Power BI. As I le
 
 🔗 **[Explore Dashboard](Projects/London-Bike-Sharing/London-Bikes-Sharing.pbix)**
 
+
+   ![](Projects/London-Bike-Sharing/Screenshot.png)
+
+
+
 ## Recruitment Tracking Dashboard 💼
 
 Recruitment Dashboard, a powerful tool designed to streamline and enhance the recruitment process. This interactive dashboard, crafted using mock data, provides valuable insights into the demographic characteristics, education levels, experience, and salary expectations of job applicants. Additionally, it offers a user-friendly interface for effectively tracking the status of each application in the recruitment pipeline.
@@ -64,9 +67,10 @@ Recruitment Dashboard, a powerful tool designed to streamline and enhance the re
 
 5. **Process Tracking**
 
+🔗 **[Explore Dashboard](Projects/Recruitment Tracking/Recrutiment Tracking.pbix)**
 
-![](***)
-🔗 **[Explore Dashboard](Projects/London-Bike-Sharing/London-Bikes-Sharing.pbix)**
+
+ ![](Projects/Recruitment-Tracking/gif.gif)
 
 
 
