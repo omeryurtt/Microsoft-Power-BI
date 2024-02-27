@@ -47,7 +47,30 @@ I'm excited to share ongoing data explorations using Microsoft Power BI. As I le
 🔗 **[Explore Jupyter Notebook](Projects/London-Bike-Sharing/london-bike-sharing-analysis.ipynb)**
 
 🔗 **[Explore Dashboard](Projects/London-Bike-Sharing/London-Bikes-Sharing.pbix)**
-   
+
+## Recruitment Tracking Dashboard 💼
+
+Recruitment Dashboard, a powerful tool designed to streamline and enhance the recruitment process. This interactive dashboard, crafted using mock data, provides valuable insights into the demographic characteristics, education levels, experience, and salary expectations of job applicants. Additionally, it offers a user-friendly interface for effectively tracking the status of each application in the recruitment pipeline.
+
+### Dashboard Highlights
+
+1. **Demographic Overview**
+
+2. **Education Insights**
+
+3. **Experience Analysis**
+
+4. **Salary Expectations**
+
+5. **Process Tracking**
+
+
+![](***)
+🔗 **[Explore Dashboard](Projects/London-Bike-Sharing/London-Bikes-Sharing.pbix)**
+
+
+
+
 ## Getting Started
 
 Feel free to explore the dashboards and join me in this learning journey. Your feedback and suggestions are highly appreciated as I continue to enhance and refine these projects.
