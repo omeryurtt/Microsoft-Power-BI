@@ -67,7 +67,7 @@ Recruitment Dashboard, a powerful tool designed to streamline and enhance the re
 
 5. **Process Tracking**
 
-🔗 **[Explore Dashboard](Projects/Recruitment Tracking/Recrutiment Tracking.pbix)**
+🔗 **[Explore Dashboard](Projects/Recruitment-Tracking/Recrutiment%20Tracking.pbix)**
 
 
  ![](Projects/Recruitment-Tracking/gif.gif)
